@@ -1,0 +1,5 @@
+- 👋 I’m @DustinLWagner
+- 👀 Interested in coding and software development
+- 🌱 Currently learning JS & React
+- 💞️ Not Currently Collaborating 
+- 📫 You can Email me at DustinWagner@Gmail.com
