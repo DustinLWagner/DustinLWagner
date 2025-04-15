@@ -2,4 +2,4 @@
 - 👀 Interested in coding and software development
 - 🌱 Currently learning JS & React & Relearning HTML & CSS 
 - 💞️ Not Currently Collaborating 
-- 📫 Conact me at DustinWagner@Gmail.com
+- 📫 Contact https://dustinlwagner.github.io/pages/contact.html
